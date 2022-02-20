@@ -1,0 +1,35 @@
+.stepsss {
+  /* width: 150px; */
+
+  color: #f50057;
+}
+.stups {
+  /* width: 150px; */
+  margin-top: 50px;
+  color: grey;
+  list-style-type: decimal;
+  /* color: #f50057; */
+}
+.box {
+  color: #000 !important;
+  background-color: #f1f1f1 !important;
+}
+
+.step0 {
+  width: 0%;
+}
+.step1 {
+  width: 25%;
+}
+
+.step2 {
+  width: 50%;
+}
+
+.step3 {
+  width: 75%;
+}
+
+.step4 {
+  width: 100%;
+}
